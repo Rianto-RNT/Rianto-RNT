@@ -34,16 +34,16 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=#333&text_color=#ccc&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=292b57&text_color=ffffff&hide_border=true&layout=compact&custom_title=My Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=#333&text_color=#ccc&hide_border=true&layout=compact&custom_title=My Languages" />
 </p>
 
 <h2 align='center'>My Projects</h2>
 <p align='center'>
   <br />
   <a href="https://shuttle-9l44ld2nl-shuttle-ina.vercel.app/">
-  <img width="765" src="https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/2_thumb.jpg" />
+  <img width="765" src="https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/1_thumb.jpg" />
   </a>
   <br />
   <a href="https://github.com/Rianto-RNT/Shuttle">
