@@ -41,7 +41,7 @@
 
 <h2 align='center'>My Projects</h2>
 <p align='center'>
-  <img width="400" src="(https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/1_thumb.jpg" alt="Shuttle" />
+  <img width="400" src=https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/1_thumb.jpg alt="Shuttle" />
   <br />
   <a href="https://github.com/Rianto-RNT/Shuttle">
   <img src="https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/1_thumb.jpg" />
