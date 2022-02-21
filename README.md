@@ -41,7 +41,10 @@
 
 <h2 align='center'>My Projects</h2>
 <p align='center'>
-  <img width="765" src=https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/1_thumb.jpg alt="Shuttle" />
+  <br />
+  <a href="https://shuttle-9l44ld2nl-shuttle-ina.vercel.app/">
+  <img width="765" src="https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/2_thumb.jpg" />
+  </a>
   <br />
   <a href="https://github.com/Rianto-RNT/Shuttle">
   <img width="765" src="https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/2_thumb.jpg" />
