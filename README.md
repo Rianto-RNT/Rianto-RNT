@@ -8,7 +8,7 @@
 </div>
 
 ---
-[![](https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/Welcome-HiTech-animate.GIF)](https://rianto-rnt.github.io/rianto-cv/)
+[![](https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/Welcome-HiTech-animate.gif)](https://rianto-rnt.github.io/rianto-cv/)
 
 <h1 align='center'>👋 Hi! I'm Rianto</h1>
 <p align='center'>I'm a full-stack developer with an affinity for design related coding, currently working at <a href='https://rntcreative.io'> RNT Creative</a> with a small dev team.</p>
