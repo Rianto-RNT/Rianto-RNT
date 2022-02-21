@@ -10,7 +10,7 @@
 ---
 
 <h1 align='center'>👋 Hi! I'm Rianto</h1>
-<p align='center'>I'm a full-stack developer with an affinity for design related coding, currently working at <a href='https://rntcreative.io'> Creator</a> with a small dev team.</p>
+<p align='center'>I'm a full-stack developer with an affinity for design related coding, currently working at <a href='https://rntcreative.io'> RNT Creative</a> with a small dev team.</p>
 
 <h2 align='center'>Skills & Stats</h2>
 <div align='center'>
@@ -34,9 +34,9 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=v-prt&title_color=636363&icon_color=bdbdbd&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=292b57&text_color=ffffff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-prt&title_color=636363&icon_color=bdbdbd&bg_color=292b57&text_color=ffffff&hide_border=true&layout=compact&custom_title=My Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=292b57&text_color=ffffff&hide_border=true&layout=compact&custom_title=My Languages" />
 </p>
 
 <h2 align='center'>My Projects</h2>
