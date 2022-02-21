@@ -15,8 +15,8 @@
 <h2 align='center'>Skills & Stats</h2>
 <div align='center'>
   
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=bdbdbd)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=bdbdbd)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=373e47)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=373e47)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=bdbdbd)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=bdbdbd)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=bdbdbd)
@@ -34,9 +34,9 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=404242&text_color=e0a80d&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=404242&text_color=e0a80d&hide_border=true&layout=compact&custom_title=My Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&hide_border=true&layout=compact&custom_title=My Languages" />
 </p>
 
 <h2 align='center'>My Projects</h2>
