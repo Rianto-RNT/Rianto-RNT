@@ -34,9 +34,9 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=e0a80d&text_color=#ccc&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=404242&text_color=e0a80d&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=e0a80d&text_color=#ccc&hide_border=true&layout=compact&custom_title=My Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=636363&icon_color=bdbdbd&bg_color=404242&text_color=e0a80d&hide_border=true&layout=compact&custom_title=My Languages" />
 </p>
 
 <h2 align='center'>My Projects</h2>
