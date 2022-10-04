@@ -35,11 +35,14 @@
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=373e47)
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&show_icons=true&locale=en" alt="rianto-rnt" /></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rianto-rnt&show_icons=true&locale=en&layout=compact" alt="rianto-rnt" /></p>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=f0f0f0&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
-  <br/>
+</p>
+<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=f0f0f0&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&hide_border=true&layout=compact&custom_title=My Languages" />
 </p>
 
