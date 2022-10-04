@@ -8,6 +8,7 @@
 </div>
 
 ---
+
 [![](https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/Welcome-HiTech-animate.gif)](https://rianto-rnt.github.io/rianto-cv/)
 
 <h1 align='center'>👋 Hi! I'm Rianto</h1>
@@ -35,9 +36,9 @@
 </div>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=rianto-rnt&title_color=f0f0f0&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rianto-RNT&title_color=f0f0f0&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=My GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto-rnt&title_color=f0f0f0&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&hide_border=true&layout=compact&custom_title=My Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianto-RNT&title_color=f0f0f0&icon_color=bdbdbd&bg_color=373e47&text_color=e0a80d&hide_border=true&layout=compact&custom_title=My Languages" />
 </p>
 
 <h2 align='center'>My Projects</h2>
@@ -51,4 +52,3 @@
   <img width="765" src="https://github.com/Rianto-RNT/Rianto-RNT/blob/main/assets/2_thumb.jpg" />
   </a>
 </p>
-
